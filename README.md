@@ -8,13 +8,13 @@ DeckFit turns a standard deck of cards into a full-body workout. No equipment ne
 ## 📱 App Preview
 
 ### 🔥 Introduction
-<img src="DeckFit_app_screenshot/1.png" alt="DeckFit Intro" width="300"/>
+<img src="DeckFit_app_screenshot/1.png" alt="DeckFit Intro"/>
 
 ### 💪 How It Works
-<img src="DeckFit_app_screenshot/2.png" alt="DeckFit How It Works" width="300"/>
+<img src="DeckFit_app_screenshot/2.png" alt="DeckFit How It Works"/>
 
 ### 📜 Rules at a Glance
-<img src="DeckFit_app_screenshot/3.png" alt="DeckFit Rules" width="300"/>
+<img src="DeckFit_app_screenshot/3.png" alt="DeckFit Rules"/>
 
 ---
 
